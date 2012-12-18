@@ -1,4 +1,3 @@
-"测试测试
 call pathogen#runtime_append_all_bundles()
 
 
